@@ -1,2 +1,2 @@
 toto je muj prvni commit
-Commit v hlavní větvi
+Commit v hlavni vetvi
