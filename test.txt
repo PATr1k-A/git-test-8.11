@@ -1,2 +1,6 @@
 toto je muj prvni commit
+<<<<<<< HEAD
 Commit v hlavni vetvi
+=======
+Commit ve větvi branch2
+>>>>>>> branch2
